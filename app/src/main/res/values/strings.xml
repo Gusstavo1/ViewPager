@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TVShows</string>
+    <string name="tv_title">TV shows | Más populares</string>
+    <string name="comenzar">Comenzar</string>
+</resources>
